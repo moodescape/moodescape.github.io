@@ -117,5 +117,6 @@ collections:
   books:
     output: true
     permalink: /books/:path/
-    teaser: /assets/images/500x300.png
+    logo: "/assets/images/88x88.png"
+
 
