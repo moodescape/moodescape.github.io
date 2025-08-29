@@ -113,3 +113,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+collections:
+  books:
+    output: true
+    permalink: /books/:path/
