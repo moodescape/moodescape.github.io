@@ -22,6 +22,12 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+<script async src="https://cse.google.com/cse.js?cx=d4b7cd53b8641425f">
+</script>
+<div class="gcse-searchresults-only"></div>
+google:
+  search_engine_id: d4b7cd53b8641425f
+
 locale: "en"
 breadcrumbs: true
 enable_copy_code_button: true
