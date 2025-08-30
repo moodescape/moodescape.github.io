@@ -22,9 +22,6 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
-google:
-  search_engine_id: d4b7cd53b8641425f
-
 locale: "en"
 breadcrumbs: true
 enable_copy_code_button: true
