@@ -27,8 +27,13 @@ locale: "en"
 url: "https://moodescape.github.io"
 baseurl: ""
 repository: "moodescape/moodescape.github.io"
+
+# images
+teaser: "/assets/images/teaser-default.png"
+logo: "/assets/images/logo.png"
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
