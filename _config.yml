@@ -23,6 +23,7 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 locale: "en"
+breadcrumbs: true
 # Build settings
 url: "https://moodescape.github.io"
 baseurl: ""
@@ -33,7 +34,8 @@ teaser: "/assets/images/teaser-default.png"
 logo: "/assets/images/logo.png"
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-
+date_format: "%Y-%m-%d"   # формат даты (например: 2025-08-30)
+words_per_minute: 200     # скорость чтения в словах/мин
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -90,6 +92,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
