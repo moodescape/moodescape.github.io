@@ -24,6 +24,9 @@ minimal_mistakes_skin: default
 search: true
 locale: "en"
 # Build settings
+url: "https://moodescape.github.io"
+baseurl: ""
+repository: "moodescape/moodescape.github.io"
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
