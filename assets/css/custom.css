@@ -1,0 +1,7 @@
+.archive__item {
+  width: 250px;      /* ширина карточки */
+  height: 350px;     /* высота карточки */
+}
+.archive__item-title {
+  font-size: 16px;   /* уменьшить/увеличить заголовок */
+}
