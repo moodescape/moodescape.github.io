@@ -1,7 +1,16 @@
 .archive__item {
-  width: 250px;      /* ширина карточки */
-  height: 350px;     /* высота карточки */
+  width: 220px;   /* ширина карточки */
+  height: 320px;  /* высота карточки */
+  overflow: hidden;
 }
+
+.archive__item-teaser img {
+  object-fit: cover;  /* чтобы картинки не тянулись */
+  height: 200px;      /* высота картинки */
+  width: 100%;
+}
+
 .archive__item-title {
-  font-size: 16px;   /* уменьшить/увеличить заголовок */
+  font-size: 16px;
+  text-align: center;
 }
